@@ -4,7 +4,8 @@
 Este es el proyecto finalde la clase de **programacion y metodos numericos** en la _UABC_. Contiene archivos de las pracricas de laboratorio.
 
 Practica 1 **Introduccion y tipos de variables**
-[practica 1](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%201/PRACTICA%201.pdf)
+>>[practica 1](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%201/PRACTICA%201.pdf)
+>>
   >>[practica 1.1](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%201/Alistarse%20para%20dormir.pdf)
   >>
   >>[practica 1.2](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%201/Area%20y%20Perimetro.pdf)
@@ -20,7 +21,8 @@ Practica 1 **Introduccion y tipos de variables**
   >>[practica 1.7](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%201/sacar%20la%20Hipotenusa.pdf)
 
 Practica 2 **condicionales**
-[practica 2](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%202/Ismael%20Medina%20Saldivar%20Practica%202.pdf)
+>>[practica 2](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%202/Ismael%20Medina%20Saldivar%20Practica%202.pdf)
+>>
   >>[practica 2.1 Anidados](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%202/Condicionales%20anidados/Tasa.cpp)
   >>
   >>[practica 2.2 Multiples](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%202/Condicionales%20multiples/main%20(6).cpp)
@@ -38,7 +40,8 @@ Practica 2 **condicionales**
   >>[practica 2.6](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%202/par%20e%20inpar.pdf)
 
 Practica 3 **ciclos**
-[practica 3](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Ismael%20Medina%20Saldivar%20Practica%203.pdf)
+>>[practica 3](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Ismael%20Medina%20Saldivar%20Practica%203.pdf)
+>>
   >>[practica 3.1.1 Fibonacci](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Fibonacci/FibonacciA.cpp)
   >>
   >>[practica 3.1.2 Fibonacci](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Fibonacci/FibonacciB.cpp)
