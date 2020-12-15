@@ -25,9 +25,11 @@ Practica 2 **condicionales**
   >>[practica 2.6](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%202/par%20e%20inpar.pdf)
 
 Practica 3 **ciclos**
-  >>[practica 3](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Ismael%20Medina%20Saldivar%20Practica%203.pdf)
+[practica 3](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Ismael%20Medina%20Saldivar%20Practica%203.pdf)
   >>[practica 3.1.1 Fibonacci](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Fibonacci/FibonacciA.cpp)
+  >>
   >>[practica 3.1.2 Fibonacci](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/Fibonacci/FibonacciB.cpp)
+  >>
   >>[practica 3.2.1 For](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/For/ForD.cpp)
   >>[practica 3.2.2 For](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/For/ForE.cpp)
   >>[practica 3.3.1 While](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%203/while/whileA.cpp)
