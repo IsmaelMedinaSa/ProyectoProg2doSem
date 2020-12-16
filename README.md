@@ -3,6 +3,8 @@
 
 Este es el proyecto finalde la clase de **programacion y metodos numericos** en la _UABC_. Contiene archivos de las pracricas de laboratorio.
 
+Mi nombre es Ismael Medina Saldivar y el profesor con el que curso esta clase es Roilhi Frajo Ibarra Hernandez
+
 Practica 1 **Introduccion y tipos de variables**
 >>[practica 1](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/Practica%201/PRACTICA%201.pdf)
 >>
@@ -63,3 +65,4 @@ Practica 4 **Arreglos**
   
 Practica 11 **Método de Jacobi, método de Gauss Seidel**
   >>[practica 11](https://github.com/IsmaelMedinaSa/ProyectoProg2doSem/blob/main/PRÁCTICA%20%2311.pdf)
+
